@@ -22,12 +22,12 @@ Technologies: Node.js, React, Bootstrap, Axios, React Router
 
 ## Change Log
 
-20:00 2023-10-16 Weather Back-end Componenet
-13:30 2023-10-17 Weather Front-end componennt
-14:00 2023-10-17 Error Handling
-17:00 2023-10-17 Initilized Git
-17:30 2023-10-17 Launched Server on Redender.
-18:00 2023-10-17 Launched Netlify
+2023-10-16 20:00  Weather Back-end Componenet
+2023-10-17 13:30  Weather Front-end componennt
+2023-10-17 14:00 Error Handling
+2023-10-17 17:00 Initilized Git
+2023-10-17 17:30 Launched Server on Redender.
+2023-10-17 18:00 Launched Netlify
 
 ## Lighthouse
 
