@@ -2,7 +2,7 @@
 
 **Author**: Bradley Hower
 
-**Version**: 3.0.0 (increment the patch/fix version number if you make more commits past your first submission)
+**Version**: 4.0.0 (increment the patch/fix version number if you make more commits past your first submission)
 
 ## Overview
 The purpose of this application is to act as a back-end server for the City Explorer project. https://github.com/Bradley-Hower/city-explorer/tree/main/City%20Explorers
@@ -42,6 +42,8 @@ Technologies: Node.js, React, Bootstrap, Axios, React Router
 2023-10-22 16:35 Add Movie API
 
 2023-10-23 10:00 Bootstrap for Movies
+
+2023-11-22 19:24 Refactor Weather and Movies into own modules on back-end
 
 ## Lighthouse
 
@@ -132,5 +134,20 @@ Estimate of time needed to complete: 2 hours
 Start time: 10:00
 
 Finish time: 11:10
+
+Actual time needed to complete: 1 hour 10 minutes
+
+---
+Part III ========
+
+---
+
+Name of feature: Refactor Movies and Weather into own modules
+
+Estimate of time needed to complete: 1 hour
+
+Start time: 18:00
+
+Finish time: 19:10
 
 Actual time needed to complete: 1 hour 10 minutes
