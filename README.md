@@ -22,6 +22,7 @@ Technologies: Node.js, React, Bootstrap, Axios, React Router
 
 ### Server with Two APIs
 
+![Architecture HTTP Back-end Server Model 3](https://github.com/Bradley-Hower/city-explorer/assets/139923955/a1b6d513-4187-4929-a8b6-1dee947410e7)
 
 ## Change Log
 
@@ -44,6 +45,8 @@ Technologies: Node.js, React, Bootstrap, Axios, React Router
 2023-10-23 10:00 Bootstrap for Movies
 
 2023-11-22 19:24 Refactor Weather and Movies into own modules on back-end
+
+2023-11-22 23:06 Refactor front-end components using nesting for weather and movie items
 
 ## Lighthouse
 
@@ -151,3 +154,4 @@ Start time: 18:00
 Finish time: 19:10
 
 Actual time needed to complete: 1 hour 10 minutes
+
